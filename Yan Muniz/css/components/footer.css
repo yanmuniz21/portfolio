@@ -1,0 +1,15 @@
+.rodape {
+  padding: 24px;
+  background-color: var(--light-tertiary-color);
+
+}
+
+.rodape__imagem {
+  display: flex;
+  justify-content: center;
+}
+
+.rodape__conteudo {
+  display: flex;
+  justify-content: center;
+}
